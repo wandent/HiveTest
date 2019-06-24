@@ -1,0 +1,44 @@
+{
+    "hdinsightJobSumission.ClusterConf": [
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\query.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Test_Table.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\simpletest.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\tableparquet.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\tableparquet_alter.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\PerformanceData.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Create_PerformanceData.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Load Data.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Create_Airlines.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Create_Airports.hql"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+az login
+az account set --subscription "00161d9d-c53b-416b-94c5-e5fab4b88206"
+## az group deployment create --name "adladeploy" --resource-group "hivetest" --template-file "adla_template.json" --parameters "adla_parameter.json"
+cd setup
+az group deployment create --name "hivedeploy" --resource-group "hivetest" --template-file "template.json" --parameters "parameters.json"
+cd ..
