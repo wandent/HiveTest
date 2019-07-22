@@ -2,14 +2,6 @@
     "hdinsightJobSumission.ClusterConf": [
         {
             "name": "wtnhdinsighthive",
-            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\query.hql"
-        },
-        {
-            "name": "wtnhdinsighthive",
-            "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Test_Table.hql"
-        },
-        {
-            "name": "wtnhdinsighthive",
             "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\simpletest.hql"
         },
         {
@@ -39,6 +31,14 @@
         {
             "name": "wtnhdinsighthive",
             "filePath": "c:\\Repos\\ValeDataLake\\HiveTest\\Create_Airports.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Users\\wande\\OneDrive - Microsoft\\Documents\\GitHub\\HiveTest\\Create_External_OnTimePerformance.hql"
+        },
+        {
+            "name": "wtnhdinsighthive",
+            "filePath": "c:\\Users\\wande\\OneDrive - Microsoft\\Documents\\GitHub\\HiveTest\\Load Data.hql"
         }
     ]
 }
